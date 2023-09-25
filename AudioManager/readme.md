@@ -22,16 +22,4 @@ Vamos implementar uma aplicação para cadastrar nossas músicas e podcasts pref
 - No método inclui, trabalharemos o polimorfismo, onde iremos utilizar o *getClassificacao* (de acordo com a subclasse que for passada aqui como parâmetro) para exibir alguma mensagem. Para classificação igual ou superior a 9, iremos imprimir no terminal uma mensagem e se for inferior, imprimiremos uma outra mensagem.
 - Finalizar instanciando um objeto do tipo **MusicasPreferidas** ou **Preferencias** e incluindo a música e podcast instanciados anteriormente.
 
-
-<p></p>
-
-Exemplo/Sugestão de mensagem a exibir para classificação superio e inferior a 9. 
-
-<p></p>
-
-
-![mensagem](https://user-images.githubusercontent.com/66698429/225436483-20234ade-8dbd-4136-99be-d255fe20e5a4.PNG)
-
-
-
 Bom desafio!
