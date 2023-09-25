@@ -6,5 +6,5 @@ Os projetos estão em ordem, sendo que os primeiros são as primeiras pequenas a
 <ol>
 <li><a href="BancoJava">Banco Java</a></li>
 <li><a href="Calculadora">Calculadora</a></li>
-  <li><a href="AudioManager">Gerenciador de Áudior</a></li>
+  <li><a href="AudioManager">Gerenciador de Áudio</a></li>
 </ol>
