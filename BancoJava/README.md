@@ -1,5 +1,6 @@
 ![thumbnail-Desafio Java](https://user-images.githubusercontent.com/66698429/218160231-11c3a759-711e-484d-a856-b5977b065ec6.png)
 
+#### No dia em que fiz esse desafio, ainda não tinha sido introduzido em outros conceitos do java, como a utilização privada, getters e setters
 
 # Desafio
 
