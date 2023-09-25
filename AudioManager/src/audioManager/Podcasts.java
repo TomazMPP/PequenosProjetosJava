@@ -3,11 +3,9 @@ package audioManager;
 public class Podcasts extends Audio {
 
     private int pessoasEscutando;
-
     public int getPessoasEscutando() {
         return pessoasEscutando;
     }
-
     public void setPessoasEscutando(int pessoasEscutando) {
         this.pessoasEscutando = pessoasEscutando;
     }

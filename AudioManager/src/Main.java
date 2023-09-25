@@ -1,5 +1,6 @@
 import audioManager.Musicas;
 import audioManager.Podcasts;
+import audioManager.musicaPreferida;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,6 +17,8 @@ public class Main {
 
         System.out.println(musica1.getTitulo() + " foi curtida " + musica1.getTotalCurtidas() + " vezes");
         System.out.println(musica1.getTitulo() + " foi reproduzida " + musica1.getTotalReproducoes() + " vezes");
+        musicaPreferida musicaPreferida1 = new musicaPreferida();
+        musicaPreferida1.inclui(musica1);
 
         Podcasts podcast1 = new Podcasts();
         podcast1.setTitulo("Nerdcast");
@@ -34,5 +37,6 @@ public class Main {
         } else {
             System.out.println("Classificação: " + podcast1.getClassificacao() + ". Esse podcast não é bom!");
         }
+
     }
 }
