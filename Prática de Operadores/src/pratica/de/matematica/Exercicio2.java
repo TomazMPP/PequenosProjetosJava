@@ -26,8 +26,8 @@ public class Exercicio2 {
             inss = 751.99;
         }
 
-        System.out.println("O valor do INSS é: " + inss);
-        System.out.println("O valor do salário líquido é: " + (salario - inss));
+        System.out.println("O valor do INSS é: R$" + inss);
+        System.out.println("O valor do salário líquido é: R$" + (salario - inss));
     }
 
 }
