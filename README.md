@@ -1,6 +1,8 @@
 # ProjetosPequenosJava
-Compilado de pequenos projetos em Java que desenvolvi e estou desenvolvendo durante meu aprendizado.
-Os projetos estão em ordem, sendo que os primeiros são as primeiras pequenas aplicações de Java que fui desenvolvendo conforme meu aparendizado, leve isso em consideração. Esse repositório serve mais como um display de evolução do que um projeto de alto nível em si. 
+Repositório de projetos em Java que compila pequenos projetos que desenvolvi, bem como aqueles em desenvolvimento, ao longo do meu processo de aprendizado. Os projetos estão organizados em ordem, com os primeiros representando as minhas primeiras experiências em Java, refletindo o meu progresso ao longo do tempo. Este repositório serve como um registro de evolução do meu aprendizado, mais do que como um conjunto de projetos de alto nível em si.
+
+#### ENG
+Java Projects Repository that compiles small projects I've developed, as well as those currently in progress, throughout my learning journey. The projects are organized in chronological order, with the earliest ones representing my initial experiences in Java, reflecting my progress over time. This repository serves as a record of my learning evolution, rather than a collection of high-level projects in themselves.
 
 ### Sumário
 <ol>
