@@ -10,4 +10,5 @@ Java Projects Repository that compiles small projects I've developed, as well as
 <li><a href="Calculadora">Calculadora</a></li>
 <li><a href="AudioManager">Gerenciador de Áudio</a></li>
 <li><a href="Prática%20de%20Operadores">Prática de Operadores</a></li>
+<li><a href="AplicacaoCompras">Aplicação de Compras</a></li>
 </ol>
